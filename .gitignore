@@ -1,0 +1,6 @@
+
+floyd/
+_pycache_/
+.ipynb_checkpoints/
+__pycache__/load_cifar.cpython-36.pyc
+__pycache__/new_model.cpython-36.pyc
